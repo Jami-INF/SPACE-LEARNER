@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReadOnlyCollectionOfAnnecdotedlQaj5QG xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
+  <list xmlns:d2p1="http://schemas.datacontract.org/2004/07/Element">
+    <d2p1:Annecdote>
+      <d2p1:Description>Jupiter aigit comme un bouclier sur la terre grace a son énorme gravité contre les astéroides qui pourrait foncer sur la terre</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Le 15 mars 2009, une chauve-souris a grimpé sur la paroi extérieure du réservoir de la navette spatiale de la NASA Discovery, pendant le décompte du lancement pour sa mission STS-119. Le mammifère volant aurait péri lors de l'ascension en orbite de la navette.</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Dans l'espace, les astronautes peuvent gagner jusqu'à 3 % de leur taille. Une personne mesurant 1,75 mètres peut donc gagner un peu plus de 5 centimètres. </d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Vous pouvez pleurer dans l'espace, mais vos larmes ne couleront pas sur vos joues. À bord de la Station spatiale internationale, l'eau flotte comme des bulles.</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Si deux morceaux de métal se rencontrent dans le cosmos, ils se collent et plus rien ne les sépare. Ce phénomène est appelé « soudure à froid ».</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Il pleut presque continuellement sur Venus, mais la pluie ne touche jamais le sol : elle s'évapore avant !</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>La Lune est noire comme du charbon, elle reflète seulement 6 % de la lumière solaire qui l’atteint.</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Les anneaux de Saturne sont 300 000 fois plus large qu'ils sont épais. Toutes proportions gardées, ils sont plus minces qu’une feuille de papier !</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Un trou noir est un objet dont le champ gravitationnel est si puissant que rien ne peut en échapper, pas même la lumière !</d2p1:Description>
+    </d2p1:Annecdote>
+    <d2p1:Annecdote>
+      <d2p1:Description>Mars abrite le plus haut sommet de tout le système solaire: Le volcan Olympus Mons culmine à 26km de haut, soit plus de 3x fois la taille de l’Everest, pour un diamètre de 624 km.</d2p1:Description>
+    </d2p1:Annecdote>
+  </list>
+</ReadOnlyCollectionOfAnnecdotedlQaj5QG>

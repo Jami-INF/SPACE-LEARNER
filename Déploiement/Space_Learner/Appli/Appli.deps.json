@@ -1,0 +1,150 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Appli/1.0.0": {
+        "dependencies": {
+          "MaterialDesignThemes": "4.0.0",
+          "Modele": "1.0.0",
+          "MyDataContractPerss": "1.0.0",
+          "Test": "1.0.0"
+        },
+        "runtime": {
+          "Appli.dll": {}
+        }
+      },
+      "AutoMapper/10.1.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "System.Reflection.Emit": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.1.1.0"
+          }
+        }
+      },
+      "MaterialDesignColors/2.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "2.0.0.2422",
+            "fileVersion": "2.0.0.2422"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.0.0": {
+        "dependencies": {
+          "MaterialDesignColors": "2.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "4.0.0.2422",
+            "fileVersion": "4.0.0.2422"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "System.Reflection.Emit/4.7.0": {},
+      "Modele/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "10.1.1"
+        },
+        "runtime": {
+          "Modele.dll": {}
+        }
+      },
+      "MyDataContractPerss/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "MyDataContractPerss.dll": {}
+        }
+      },
+      "Stub/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "Stub.dll": {}
+        }
+      },
+      "Test/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0",
+          "Stub": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Appli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/10.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uMgbqOdu9ZG5cIOty0C85hzzayBH2i9BthnS5FlMqKtMSHDv4ts81a2jS1VFaDBVhlBeIqJ/kQKjQY95BZde9w==",
+      "path": "automapper/10.1.1",
+      "hashPath": "automapper.10.1.1.nupkg.sha512"
+    },
+    "MaterialDesignColors/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+JoghC3QRK0u9Wul1To1ORjcfTbFTVzFPjJ02H7VREOdNzIIn427e8G9gP9hXu9pm1r2OneLnoCG/lTma5cG2w==",
+      "path": "materialdesigncolors/2.0.0",
+      "hashPath": "materialdesigncolors.2.0.0.nupkg.sha512"
+    },
+    "MaterialDesignThemes/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+n5oWHuRiYL/gUw2XfQHCRZqHtU8KbrdurgU0IcO98Zsyhw4BvggodfXY8veRtbjjmM9EJ/sG2yKBrgPOGX4JQ==",
+      "path": "materialdesignthemes/4.0.0",
+      "hashPath": "materialdesignthemes.4.0.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "Modele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDataContractPerss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
