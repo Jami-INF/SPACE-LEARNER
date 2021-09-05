@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAstre xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Element">
+  <Astre i:type="Etoile">
+    <Description>Le Soleil est la seule étoile du Système solaire. C'est une étoile de type naine jaune. Autour de lui, orbitent 4 planètes rocheuses, la ceinture principale d'astéroïdes, 4 planètes gazeuses, la ceinture de Kuiper et les objets du nuage d'Oort.Jusqu'en 2006, on comptait neuf planètes, quand Pluton étaient encore considérée comme une vraie planète.</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>soleil</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Etoile</TypeAstre>
+    <illustration>illSoleil.png</illustration>
+    <Luminiosite>2500</Luminiosite>
+    <Masse>20000</Masse>
+  </Astre>
+  <Astre i:type="Planete">
+    <Description>Troisième planète du Système solaire par la distance (derrière Mercure et Vénus) et cinquième par sa taille et sa masse (après les quatre géantes gazeuses), la Terre est la seule planète connue sur laquelle se trouvent des êtres vivants. La révolution de la Terre autour du Soleil, qui définit l'année sidérale, dure 365 jours, 6 heures et 9 minutes.</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Terre</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Planete</TypeAstre>
+    <illustration>illTerre.png</illustration>
+    <Age>2000</Age>
+    <Masse>25000</Masse>
+    <Vivable>oui</Vivable>
+  </Astre>
+  <Astre i:type="Satellite">
+    <Description>La Lune est l'unique satellite naturel de la Terre. Elle fait partie des objets de l'Univers explorés par l'Homme. Elle est visible depuis la Terre, car elle est éclairée par le Soleil.La Lune a quatre phases: nouvelle lune(pas de lune visible), premier quartier, pleine lune et dernier quartier.</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Lune</Nom>
+    <Taille>1^10 km</Taille>
+    <TypeAstre>Satellite</TypeAstre>
+    <illustration>illLune.png</illustration>
+    <Astreorbit>Terre</Astreorbit>
+  </Astre>
+  <Astre i:type="TrNoir">
+    <Description>Lorsqu'en décembre 1962 l'astronome néerlandais Maarten Schmidt pointa le télescope du mont Palomar vers une faible étoile bleutée, il ne se doutait pas qu'il allait faire l'une des découvertes les plus importantes du XXe siècle en astronomie. Cet astre, situé à un milliard d'années-lumière, rayonnait comme 1 000 galaxies, mais sa dimension était plus petite que le millionième d'une galaxie ! Loin d'être un cas isolé, on trouva rapidement des centaines d'objets célestes similaires, et leur population atteint aujourd'hui des centaines de milliers. </Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Quasar</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Trou_Noir</TypeAstre>
+    <illustration>illQuasar.jpg</illustration>
+    <Type>type</Type>
+  </Astre>
+  <Astre i:type="Galaxie">
+    <Description>La Voie lactée est le nom de notre galaxie dans laquelle se situe notre Système solaire. Il s'agit d'une grande galaxie spirale barrée, abritant environ 100 milliards à 400 milliards d'étoiles, dont le Soleil, et mesurant environ 100 000 années-lumière de diamètre. </Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Voie_Lactée</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Galaxie</TypeAstre>
+    <illustration>illVoie_Lactée.png</illustration>
+    <Nbetoile>38</Nbetoile>
+  </Astre>
+  <Astre i:type="Planete">
+    <Description>Située à environ 228 millions de kilomètres du Soleil, Mars est la quatrième planète du Système solaire. Sa couleur rouge est donnée par l'abondance d'oxyde de fer (rouille) sur sa surface. Il est facile de trouver Mars dans le ciel grâce à sa couleur, même à l'œil nu.</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>mars</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Planete</TypeAstre>
+    <illustration>illMars.png</illustration>
+    <Age>600</Age>
+    <Masse>8000</Masse>
+    <Vivable>non</Vivable>
+  </Astre>
+</ArrayOfAstre>

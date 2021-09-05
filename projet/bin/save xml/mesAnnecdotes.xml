@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnnecdote xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Element">
+  <Annecdote>
+    <Description>Jupiter aigit comme un bouclier sur la terre grace a son énorme gravité contre les astéroides qui pourrait foncer sur la terre</Description>
+  </Annecdote>
+  <Annecdote>
+    <Description>blabltsa</Description>
+  </Annecdote>
+  <Annecdote>
+    <Description>aaaaaaaablabla</Description>
+  </Annecdote>
+  <Annecdote>
+    <Description>blaggggggbla</Description>
+  </Annecdote>
+  <Annecdote>
+    <Description>blahhhhhbla</Description>
+  </Annecdote>
+  <Annecdote>
+    <Description>blabjjjjjjla</Description>
+  </Annecdote>
+</ArrayOfAnnecdote>

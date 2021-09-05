@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAstre xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Element">
+  <Astre i:type="Etoile">
+    <Description>DescritionblablablaDescritionblablaDescritionblablaDescritionblab</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>soleil</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Etoile</TypeAstre>
+    <illustration>illSoleil.png</illustration>
+    <Luminiosite>2500</Luminiosite>
+    <Masse>20000</Masse>
+  </Astre>
+  <Astre i:type="Planete">
+    <Description>Descritionblablabla</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Terre</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Planete</TypeAstre>
+    <illustration>illTerre.png</illustration>
+    <Age>2000</Age>
+    <Masse>25000</Masse>
+    <Vivable>oui</Vivable>
+  </Astre>
+  <Astre i:type="Satellite">
+    <Description>Descritionblablabla</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Lune</Nom>
+    <Taille>1^10 km</Taille>
+    <TypeAstre>Satellite</TypeAstre>
+    <illustration>illLune.png</illustration>
+    <Astreorbit>Terre</Astreorbit>
+  </Astre>
+  <Astre i:type="TrNoir">
+    <Description>Descritionblablabla</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Quasar</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Trou_Noir</TypeAstre>
+    <illustration>illQuasar.jpg</illustration>
+    <Type>type</Type>
+  </Astre>
+  <Astre i:type="Galaxie">
+    <Description>Descritionblablabla</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>Voie_Lactée</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Galaxie</TypeAstre>
+    <illustration>illVoie_Lactée.png</illustration>
+    <Nbetoile>38</Nbetoile>
+  </Astre>
+  <Astre i:type="Planete">
+    <Description>Descritionblablabla</Description>
+    <DistanceTA>2</DistanceTA>
+    <Nom>mars</Nom>
+    <Taille>10^10 km</Taille>
+    <TypeAstre>Planete</TypeAstre>
+    <illustration>illMars.png</illustration>
+    <Age>600</Age>
+    <Masse>8000</Masse>
+    <Vivable>non</Vivable>
+  </Astre>
+  <Astre i:type="Satellite">
+    <Description>truc infame</Description>
+    <DistanceTA>0</DistanceTA>
+    <Nom>Ma ppp</Nom>
+    <Taille>0</Taille>
+    <TypeAstre>Satellite</TypeAstre>
+    <illustration>D:\arbre_no_plagia.png</illustration>
+    <Astreorbit>truc infame</Astreorbit>
+  </Astre>
+</ArrayOfAstre>

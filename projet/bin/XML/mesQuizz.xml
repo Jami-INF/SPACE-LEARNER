@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReadOnlyCollectionOfQuizzdlQaj5QG xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
+  <list xmlns:d2p1="http://schemas.datacontract.org/2004/07/Element">
+    <d2p1:Quizz>
+      <d2p1:Question>Quelle est la couleur d'un trou noir ?</d2p1:Question>
+      <d2p1:RepF1>blanche</d2p1:RepF1>
+      <d2p1:RepF2>jaune</d2p1:RepF2>
+      <d2p1:RepF3>rouge</d2p1:RepF3>
+      <d2p1:RepJ>noire</d2p1:RepJ>
+    </d2p1:Quizz>
+    <d2p1:Quizz>
+      <d2p1:Question>Quelle est la couleur du soleil ?</d2p1:Question>
+      <d2p1:RepF1>blanche</d2p1:RepF1>
+      <d2p1:RepF2>Noir</d2p1:RepF2>
+      <d2p1:RepF3>rouge</d2p1:RepF3>
+      <d2p1:RepJ>Jaune</d2p1:RepJ>
+    </d2p1:Quizz>
+    <d2p1:Quizz>
+      <d2p1:Question>Quelle est la couleur de la lune ?</d2p1:Question>
+      <d2p1:RepF1>Rouge</d2p1:RepF1>
+      <d2p1:RepF2>Blanche</d2p1:RepF2>
+      <d2p1:RepF3>Jaune</d2p1:RepF3>
+      <d2p1:RepJ>Noir</d2p1:RepJ>
+    </d2p1:Quizz>
+    <d2p1:Quizz>
+      <d2p1:Question>Quelle est la Consistance d'une galaxie ?</d2p1:Question>
+      <d2p1:RepF1>Extra-Terrestres</d2p1:RepF1>
+      <d2p1:RepF2>Etoiles uniquement</d2p1:RepF2>
+      <d2p1:RepF3>Vide</d2p1:RepF3>
+      <d2p1:RepJ>Astres en tout genre</d2p1:RepJ>
+    </d2p1:Quizz>
+    <d2p1:Quizz>
+      <d2p1:Question>Quelle type d'astre et la Terre ?</d2p1:Question>
+      <d2p1:RepF1>Galaxie</d2p1:RepF1>
+      <d2p1:RepF2>Trou Noir</d2p1:RepF2>
+      <d2p1:RepF3>Etoile</d2p1:RepF3>
+      <d2p1:RepJ>Planete</d2p1:RepJ>
+    </d2p1:Quizz>
+    <d2p1:Quizz>
+      <d2p1:Question>Quelle type d'astre et la Lune ?</d2p1:Question>
+      <d2p1:RepF1>Galaxie</d2p1:RepF1>
+      <d2p1:RepF2>Trou Noir</d2p1:RepF2>
+      <d2p1:RepF3>Planete</d2p1:RepF3>
+      <d2p1:RepJ>Satellite</d2p1:RepJ>
+    </d2p1:Quizz>
+  </list>
+</ReadOnlyCollectionOfQuizzdlQaj5QG>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypes xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Element">
+  <Types>
+    <Description>« Planète » signifie « astre errant » en grec, car les planètes visibles se déplacent dans le ciel par rapport aux étoiles. Elles ne sont donc pas toutes visibles chaque nuit. Elles peuvent être différenciées des étoiles car elles ne scintillent pas. Mais pour voir autre chose qu'un petit point lumineux dans le ciel, des jumelles, une lunette astronomique ou un télescope sont nécessaires.</Description>
+    <Illustration>illplanete.png</Illustration>
+    <Nom>Planete</Nom>
+  </Types>
+  <Types>
+    <Description>En astronomie, un système planétaire (parfois confondu avec système stellaire) est un système composé de planètes, ainsi que de divers corps célestes inertes tels des astéroïdes et comètes, gravitant autour d'une étoile. Le Système solaire est un exemple de système planétaire.</Description>
+    <Illustration>IllSysSol.png</Illustration>
+    <Nom>Système_solaire</Nom>
+  </Types>
+  <Types>
+    <Description>Les galaxies sont des ensembles célestes (dans l'espace) regroupant chacune des milliards d'étoiles mais aussi des gaz et des poussières qui tournent autour d'un centre. Ces galaxies sont nombreuses et immenses. Il existe plusieurs formes de galaxies : des spirales, elliptiques, irrégulières et des naines. La galaxie dans laquelle se trouvent la Terre et le Système solaire s'appelle la Voie lactée. La galaxie voisine de la notre visible à l'œil nu depuis l'hémisphère Nord est la galaxie d'Andromède.</Description>
+    <Illustration>IllGalaxie.png</Illustration>
+    <Nom>Galaxie</Nom>
+  </Types>
+  <Types>
+    <Description>Une étoile est un corps céleste qui se déplace dans l'espace et qui émet sa propre lumière. On peut en observer des milliers depuis la Terre, généralement la nuit. Les étoiles brillent parce que ce sont des boules de matières en fusion. Elles produisent de la lumière ainsi toute lumière naturelle que l’on peut observer provient directement ou indirectement (ex : réflexion sur la lune) de la lumière des étoiles. La lumière en sens général peut être produite par d’autres sources que des étoiles.</Description>
+    <Illustration>IllEtoile.png</Illustration>
+    <Nom>Etoile</Nom>
+  </Types>
+  <Types>
+    <Description>Les trous noirs sont des objets de l’espace qui créent une gravité tellement grande que même la lumière à proximité semble tomber dedans sans jamais pouvoir s'en échapper. Ils sont encore aujourd'hui mal compris et sont le sujet de nombreuses recherches.</Description>
+    <Illustration>IllTrNoir.png</Illustration>
+    <Nom>Trou_Noir</Nom>
+  </Types>
+  <Types>
+    <Description>Corps céleste gravitant autour d'une planète. La Lune est le satellite de la Terre.</Description>
+    <Illustration>IllLune.png</Illustration>
+    <Nom>Satellite</Nom>
+  </Types>
+</ArrayOfTypes>

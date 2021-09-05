@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuizz xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Element">
+  <Quizz>
+    <Question>quelle est la couleur d'un trou noir ?</Question>
+    <RepF1>blanche</RepF1>
+    <RepF2>jaune</RepF2>
+    <RepF3>rouge</RepF3>
+    <RepJ>noire</RepJ>
+  </Quizz>
+  <Quizz>
+    <Question>quelle est la couleur du soleil ?</Question>
+    <RepF1>blanche</RepF1>
+    <RepF2>jaune</RepF2>
+    <RepF3>rouge</RepF3>
+    <RepJ>noire</RepJ>
+  </Quizz>
+  <Quizz>
+    <Question>quelle est la couleur d'une galaxie ?</Question>
+    <RepF1>blanche</RepF1>
+    <RepF2>jaune</RepF2>
+    <RepF3>rouge</RepF3>
+    <RepJ>noire</RepJ>
+  </Quizz>
+  <Quizz>
+    <Question>quelle type d'astre et le soleil ?</Question>
+    <RepF1>Galaxie</RepF1>
+    <RepF2>Trou Noir</RepF2>
+    <RepF3>Etoile</RepF3>
+    <RepJ>Planete</RepJ>
+  </Quizz>
+</ArrayOfQuizz>
