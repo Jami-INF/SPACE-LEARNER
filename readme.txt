@@ -12,3 +12,5 @@ Les fonctionnalités sont :
 La documentation complète du projet réalisé en première année d'IUT Informatique 2020-2021 :
 
 https://docs.google.com/presentation/d/1hS0k_OdIGS3CynoUPR-jOP1YhJKIRRD3pAr_vXs8czs/edit?usp=sharing
+
+Les données de l'application actuelle sont absolument factices, elles sont présentes uniquement pour tester le code.
